@@ -1,4 +1,5 @@
- DMart Retail Sales Analytics Dashboard
+![Dashboard](dashboard.png)
+DMart Retail Sales Analytics Dashboard
 
  Project Overview
 
